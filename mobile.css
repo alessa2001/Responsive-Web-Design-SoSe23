@@ -1,0 +1,250 @@
+@media screen and (max-width:600px) {
+    /*#background1 {
+        width: 100%; 
+        height: 768px;
+        margin: 0;
+
+    }*/
+
+    #logo {
+        width: 90px;
+        height: 70px;
+    }
+
+    #burger-menu {
+        right: 30px;
+    }
+
+    #großerCube {
+        width: 310px;
+        height: 260px;
+        left: 40px;
+        bottom: 320px;
+    }
+
+    #p1 {
+        font-size: 55px;
+        left: 35px;
+        bottom: 580px;
+    }
+
+    #p2 {
+        font-size: 28px;
+        left: 40px;
+        bottom: 575px;
+    }
+
+    #Angabe1 {
+        left: 30px;
+        bottom: 220px;
+        font-size: 16px;
+    }
+
+    #Angabe2 {
+        left: 105px;
+        bottom: 220px;
+        font-size: 16px;
+    }
+
+    #Angabe3 {
+        left: 170px;
+        bottom: 220px;
+        font-size: 16px;
+    }
+
+    #Angabe4 {
+        left: 235px;
+        bottom: 220px;
+        font-size: 16px;
+    }
+
+    #Angabe5 {
+        left: 300px;
+        bottom: 220px;
+        font-size: 16px;
+    }
+
+    #position {
+        position: relative;
+        margin-left: 15px;
+    }
+
+    #icon {
+        width: 52px;
+        height: 32px;
+        margin-bottom: -6px;
+    }
+
+    .btn {
+        padding: 14px 30px;
+        font-size: 20px;
+        right: 65px;
+        bottom: 130px;
+    }
+
+
+    /*#background2 {
+        width: 600px;
+    }*/
+
+    #title2 {
+        position: absolute;
+        top: 770px;
+        left: 70px;
+        width: 300px;
+        height: 200px;
+    }
+
+    #p3 {
+        font-size: 55px;
+        letter-spacing: 0.03em;
+    }
+
+    #p4 {
+        font-size: 21px;
+        top: 95px;
+        left: 2px;
+    }
+
+    #kleinerCube {
+        width: 210px;
+        height: 160px;
+        position: absolute;
+        left: 170px;
+        top: 920px;
+    }
+
+
+    #mittlererCube {
+        width: 290px;
+        height: 230px;
+        position: absolute;
+        left: 130px;
+        top: 1070px;
+    }
+
+    #großerCube2 {
+        width: 210px;
+        height: 180px;
+        position: absolute;
+        left: 180px;
+        top: 1280px;
+    }
+
+    #cubeS {
+        font-size: 16px;
+        position: absolute;
+        top: 965px;
+        left: 30px;
+    }
+
+    #p5 {
+        font-size: 25px;
+    }
+
+    .verticalLine {
+        height: 60px;
+        position: absolute;
+        top: 970px;
+        left: 75px;
+    }
+
+    #cubeinfo1 {
+        position: absolute;
+        top: 965px;
+        left: 95px;
+        font-size: 16px;
+        line-height: 10%;
+    }
+
+    #cubeM {
+        font-size: 16px;
+        position: absolute;
+        top: 1150px;
+        left: 30px;
+    }
+
+    .verticalLine2 {
+        height: 60px;
+        position: absolute;
+        top: 1155px;
+        left: 75px;
+    }
+
+    #cubeinfo2 {
+        position: absolute;
+        top: 1150px;
+        left: 95px;
+        font-size: 16px;
+        line-height: 10%;
+    }
+
+    #p6 {
+        font-size: 25px;
+    }
+
+    #cubeL {
+        font-size: 16px;
+        position: absolute;
+        top: 1325px;
+        left: 30px;
+    }
+
+    .verticalLine3 {
+        height: 60px;
+        position: absolute;
+        top: 1330px;
+        left: 75px;
+    }
+
+    #cubeinfo3 {
+        position: absolute;
+        top: 1325px;
+        left: 95px;
+        font-size: 16px;
+        line-height: 10%;
+    }
+
+    #p7 {
+        font-size: 25px;
+    }
+
+    /*#background3 {
+        width: 600px;
+    }*/
+
+    #title3 {
+        position: absolute;
+        top: 1540px;
+        left: 70px;
+        width: 300px;
+        height: 200px;
+    }
+
+    #p8 {
+        font-size: 55px;
+        letter-spacing: 0.03em;
+    }
+
+    #p9 {
+        font-size: 24px;
+        position: absolute;
+        top: 95px;
+        left: 5px;
+    }
+
+
+
+
+
+    .btn2 {
+        padding: 4px 40px;
+        font-size: 25px;
+        left: 100px;
+        top: 2320px;
+        position: absolute;
+    }
+
+
+
+}
